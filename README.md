@@ -2,7 +2,7 @@
 
 Python Matplotlib project
 
-The goal for this project is visualize the amount (US$) spent by Venezuelan goverment between 2004 and 2007 through lobbying firms in the US Congress. This project is based in real data.
+The goal in this project to is visualize the amount (US$) spent by Venezuelan goverment between 2004 and 2007 through lobbying firms in the US Congress. This project is based in real data.
 
 
 Technologies:
