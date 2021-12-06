@@ -14,4 +14,6 @@ Sources:
 http://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2004&id=F200482
 
 
-Contact me: monica@monicacorrea.com
+More info about me: 
+https://monicacorrea.com/en/about
+monica@monicacorrea.com
